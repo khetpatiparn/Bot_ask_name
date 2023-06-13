@@ -1,5 +1,4 @@
 version: "3.1"
-
 nlu:
 - intent: greet
   examples: |
@@ -16,7 +15,6 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
-
 - intent: goodbye
   examples: |
     - cu
@@ -29,7 +27,6 @@ nlu:
     - see you around
     - bye bye
     - see you later
-
 - intent: affirm
   examples: |
     - yes
@@ -38,7 +35,7 @@ nlu:
     - of course
     - that sounds good
     - correct
-
+    - ok
 - intent: deny
   examples: |
     - no
@@ -48,7 +45,6 @@ nlu:
     - don't like that
     - no way
     - not really
-
 - intent: mood_great
   examples: |
     - perfect
@@ -65,7 +61,6 @@ nlu:
     - so so perfect
     - so good
     - so perfect
-
 - intent: mood_unhappy
   examples: |
     - my day was horrible
@@ -82,10 +77,35 @@ nlu:
     - extremly sad
     - so saad
     - so sad
-
 - intent: bot_challenge
   examples: |
     - are you a bot?
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+- intent: ask_me_anything
+  examples: |
+    - ask me anything
+    - would you like to ask me something
+    - feel free to ask me about things
+    - want to ask me somthing?
+- intent: repeat_shirt_size
+  examples: |
+    - y size
+    - tell me my shirt size
+    - do you know my shirt size
+    - repeat my shirt size
+- intent: give_shirt_size
+  examples: |
+    - i want a [large](shirt_size) shirt
+    - [medium](shirt_size) size
+    - give me a [small](shirt_size) tshirt
+    - [small](shirt_size)
+    - [medium](shirt_size)
+    - [large](shirt_size)
+    - i'd prefer [medium](shirt_size) size
+    - gimme gimme gimme [small](shirt_size) tshirt
+    - give shirt size
+    - i want a [large](shirt_size) shirt please
+    - i want to give you my shirt
+    - [small](shirt_size)

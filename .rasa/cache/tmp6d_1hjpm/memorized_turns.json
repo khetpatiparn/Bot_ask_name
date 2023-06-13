@@ -1,0 +1,16 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "utter_greet",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpbhMiAUAQvc0lw==": "action_listen",
+    "eJydjtEJgDAMBVfJAE7QVURCkVCLNkqaClKyu4X6X/DvHRzHm6tNUC+hG/2q8WQHtQ9kn8jBB0fMStzckkmaE7mhOghCpDZoFFUS7Oq/wuCFzzsmQs+PbpGD2fIC08BShQ==": "utter_ask_shirt_size",
+    "eJydjlEKhDAMRK/SA+wJepVFQpFBw2pckijslt7div5b/JuBN4955/IK+avYKPXOi8SQz0CSZsRwlYnNIZVdDVoZllo9hkEBLzeO1R1KJ/rMcPMi2YdmUJKfjyxD259jZCOrk/EfDdJuB7ENc3w=": "action_listen",
+    "eJylj1EKwkAMRK+SA/QEe5VSwiJDG7SxbNKCLnt3V1rUH2nRvwxMXl7aXBrKU8LC8eRy1UB5HVjjiEBbuIg5tHZnQ6od0Ro9UJ8ALzuM2R2J1+pvhB2LaGcewVFvPoj2x3yeSzZIcja542/oF8WKEhdYoPZ9rGvo9b4s+NQo3QN2kZqO": "shirt_size_form",
+    "eJylj9EKwjAMRX+lHzBEX/sro4QicQuunTTZQMv+fZGJ9UUq7i0hp/eetnlpTL4lnMGfhcZoTd4GiD6gNa9lIBaMyk6MSRmKuoo1XUKUpZIxiWCCDf0voWLh+QoBwce79BS733yej7inJMD0wN2hXxQ1ioSQrWlLmWvM+/s046dGpaWQcBlTUJqHUTQ9l4tWnQ5Ht8PBrf1JzEM=": "utter_remember",
+    "eJy1kNEKwjAMRX+lHzBEX/srY4QqcQuunSTZQMv+fZGJ80Umyt4aenrvScs8Fi5fGQcIJ6UueZfnA6QQ0bvn0JIoJmN7QTaGko3qXc2IOq5k9KrIMKO/JaxYBLlARAjppg2l+jufxyNpiBWE7vh36AdFiyIlFO/Kpawq3Gt9GvBdY6VlIeHccTRa2k4tPS83VnXY7avNHObvY4wYj8gbKVQTIZf9gw==": "action_listen",
+    "eJzFkFEKwjAQRK+SAxTR31yllBBlbBebtGy2BQ29u5GqVUFaFPEvSybzXjaPQ6Ziy+iN3Qk1Xqs4Hoy3Dlpdh5qCwKdsF8ApQz6NolXJgAwzHZ0I2IzRzxpmLGw4GAdj/VEq8uUyn8ujUBGLCXTC16VvFFMVCSFolU+wIlP371OPR40ZypQ0+4ZdSoe6kdQep5uE2qzWxc8cxvUxHNwW/BeF12UvMLiRGC2sPLGKM6uDJis=": "action_say_shirt_size",
+    "eJzFkuEKgjAUhV9lDyBRf/cqIWPFSS+5KXdXwcR3b2FlBaEl0b+NnZ3v22Xbrk9UVzEaY/dCpdeqGxbGWwetrpuCgsDHbB3AMUM+bkWrjAHpJzpqEbAZot81TFjYcDQOxvpWcvLZPJ/LpZATiwl0wuLSN4qxioQQtNqOsDRR9+dTg0eNCcqYNIeSXUyHopTY3o0nEbVZrdOfOQzjYzi4HfgvCq/DnmFwIzEqWPmcFWz7/F2WMdMz93NSJQ==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVufn5KSDzE4EGxQIAPEFQdQ==": "utter_happy",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVufn5KSDzE4l0SkZiQUElfmNiAVKZa5w=": "action_listen"
+  }
+}
